@@ -1,0 +1,13 @@
+
+
+html{
+font-family: 'Lato', sans-serif;
+text-align: center;
+background-color: lightblue
+}
+
+#app {
+	width: 50%;
+	margin: 0 auto;
+	font-family: 'Lato', sans-serif;
+}
